@@ -1,0 +1,14 @@
+{
+  "name": "chation-mock-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sunada-ke/chation-mock-server.git",
+  "author": "sunada-ke",
+  "license": "MIT",
+  "scripts": {
+    "start": "json-server --watch rooms.json"
+  },
+  "dependencies": {
+    "json-server": "^0.13.0"
+  }
+}
