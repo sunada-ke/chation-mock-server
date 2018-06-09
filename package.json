@@ -6,7 +6,7 @@
   "author": "sunada-ke",
   "license": "MIT",
   "scripts": {
-    "start": "json-server --watch rooms.json"
+    "start": "json-server --watch api.json"
   },
   "dependencies": {
     "json-server": "^0.13.0"
